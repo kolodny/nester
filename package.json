@@ -15,5 +15,17 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^1.21.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolodny/nester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/nester/issues"
+  },
+  "homepage": "https://github.com/kolodny/nester"
 }

@@ -14,3 +14,9 @@ nester(nestedObj, 'a.some.other.path[0]', 42);
 console.log(nestedObj.a.some.other.path[0]); // 42
 ```
 
+### Testing:
+
+```js
+npm install
+npm test
+```
