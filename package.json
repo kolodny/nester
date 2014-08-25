@@ -1,0 +1,19 @@
+{
+  "name": "nester",
+  "version": "0.0.1",
+  "description": "Get and set properties from deeply nested arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "nested",
+    "object",
+    "objects"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
