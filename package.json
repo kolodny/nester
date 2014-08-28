@@ -1,6 +1,6 @@
 {
   "name": "nester",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get and set properties from deeply nested arrays",
   "main": "index.js",
   "scripts": {
