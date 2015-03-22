@@ -1,4 +1,5 @@
 .git*
 test/
 .DS_Store
-test.js
+test.jstest
+node_modules/

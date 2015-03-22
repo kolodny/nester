@@ -4,7 +4,7 @@
   "description": "Get and set properties from deeply nested arrays",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha"
+    "test": "mocha"
   },
   "keywords": [
     "nested",
