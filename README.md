@@ -1,5 +1,7 @@
 # nester - A nested object getter/setter
 
+[![Build Status](https://travis-ci.org/kolodny/nester.svg?branch=master)](https://travis-ci.org/kolodny/nester)
+
 
 ### Usage:
 
